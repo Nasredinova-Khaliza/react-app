@@ -1,0 +1,112 @@
+
+
+.filterButton{
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  gap: 15px;
+}
+
+.button1{
+  width: 300px;
+  height: 45px;
+  font-size: x-large;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+
+}
+.button2{
+  width: 300px;
+  height: 45px;
+  font-size: x-large;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+
+}
+.button3{
+  width: 300px;
+  height: 45px;
+  font-size: x-large;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+
+}
+.button4{
+  width: 300px;
+  height: 45px;
+  font-size: x-large;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+
+}
+.button5{
+  width: 300px;
+  height: 45px;
+  font-size: x-large;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+
+}
+
+.inputs{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 15px;
+  padding: 40px;
+}
+
+.movieName {
+  width: 400px;
+  height: 40px;
+  text-align: center;
+  border-radius: 12px;
+  border: none;
+  background: silver;
+  font-size: x-large;
+}
+
+.movieImage{
+  width: 400px;
+  height: 40px;
+  text-align: center;
+  border-radius: 12px;
+  border: none;
+  background: silver;
+  font-size: x-large;
+}
+.movieYear{
+  width: 400px;
+  height: 40px;
+  text-align: center;
+  border-radius: 12px;
+  border: none;
+  background: silver;
+  font-size: x-large;
+}
+.movieGenre{
+  width: 400px;
+  height: 40px;
+  text-align: center;
+  border-radius: 12px;
+  border: none;
+  background: silver;
+  font-size: x-large;
+}
+
+.button6{
+  width: 200px;
+  height: 45px;
+  font-size: x-large;
+  font-weight: 600;
+  border: none;
+  border-radius: 5px;
+  background: rgb(57, 57, 224);
+}
+

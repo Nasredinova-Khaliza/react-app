@@ -1,0 +1,22 @@
+.movieBox{
+  width: 400px;
+  height: 550px;
+  background-color: rgb(172, 104, 236);
+  margin-top: 50px;
+  border-radius: 12px;
+}
+
+img{
+  width: 20rem;
+  height: 350px;
+
+}
+
+h1{
+  color: black;
+}
+
+h3{
+  color: black;
+  padding: 8px;
+}
